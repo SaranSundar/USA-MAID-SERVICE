@@ -10,7 +10,7 @@ class Rooms extends Component {
     };
 
     showInfo = (num) => {
-        this.setState({showModal: "is-active", imgPath: "clean" + num + "min.jpg"})
+        this.setState({showModal: "is-active", imgPath: "clean" + num + ".jpg"})
     };
 
     closeInfo = () => {
@@ -46,63 +46,63 @@ class Rooms extends Component {
     };
 
     render() {
-        let imgUrl = "RoomImages/clean" + this.state.bgPos + "min.jpeg";
         return (
             <Fragment>
-                <div className='hero rooms-image'
-                     style={{
-                         backgroundImage: 'url(' + imgUrl + ')',
-                         backgroundSize: 'cover',
-                         backgroundPosition: 'center center',
-                         backgroundRepeat: 'no-repeat',
-                         filter: "brightness(80%)",
-                         position: "absolute"
-                     }}
+                <div className='hero rooms-image is-primary'
+                    // style={{
+                    //     backgroundImage: 'url(' + imgUrl + ')',
+                    //     backgroundSize: 'cover',
+                    //     backgroundPosition: 'center center',
+                    //     backgroundRepeat: 'no-repeat',
+                    //     filter: "brightness(80%)",
+                    //     position: "relative"
+                    // }}
                      onLoad={console.log("IMAGE LOADED")}>
+                    <div className="hero-body container has-text-centered is-overlay center-child">
+                        <h1 className="title is-size-1-desktop has-text-white">
+                            WHAT WE CLEAN
+                        </h1>
+                        <h2 className="subtitle is-size-2-desktop has-text-white">
+                            Fast. Efficient. Effective.
+                        </h2>
+                    </div>
                 </div>
-                <div className="hero-body container has-text-centered is-overlay" style={{paddingTop: "100px"}}>
-                    <h1 className="title is-size-1-desktop has-text-white">
-                        WHAT WE CLEAN
-                    </h1>
-                    <h2 className="subtitle is-size-2-desktop has-text-white">
-                        Fast. Efficient. Effective.
-                    </h2>
-                </div>
+
                 <div className="grid-rooms">
                     <div className="grid-item">
-                        <img src="RoomImages/clean2min.jpg"/>
+                        <img src="RoomImages/clean2.jpg"/>
                         <div className="item__overlay colorWhite">
                             <button onClick={() => this.showInfo(2)}>Bedroom</button>
                         </div>
                     </div>
                     <div className="grid-item">
-                        <img src="RoomImages/clean3min.jpg"/>
+                        <img src="RoomImages/clean5.jpg"/>
                         <div className="item__overlay colorWhite">
-                            <button onClick={() => this.showInfo(3)}>Living Room</button>
+                            <button onClick={() => this.showInfo(5)}>Living Room</button>
                         </div>
                     </div>
                     <div className="grid-item">
-                        <img src="RoomImages/clean4min.jpg"/>
+                        <img src="RoomImages/clean1.jpg"/>
                         <div className="item__overlay colorWhite">
-                            <button onClick={() => this.showInfo(4)}>Bathroom</button>
+                            <button onClick={() => this.showInfo(1)}>Bathroom</button>
                         </div>
                     </div>
                     <div className="grid-item">
-                        <img src="RoomImages/clean5min.jpg"/>
+                        <img src="RoomImages/clean4.jpg"/>
                         <div className="item__overlay colorWhite">
-                            <button onClick={() => this.showInfo(5)}>Kitchen</button>
+                            <button onClick={() => this.showInfo(4)}>Kitchen</button>
                         </div>
                     </div>
                     <div className="grid-item">
-                        <img src="RoomImages/clean2min.jpg"/>
+                        <img src="RoomImages/clean6.jpg"/>
                         <div className="item__overlay colorWhite">
-                            <button onClick={() => this.showInfo(2)}>Kitchen</button>
+                            <button onClick={() => this.showInfo(6)}>Study Room</button>
                         </div>
                     </div>
                     <div className="grid-item">
-                        <img src="RoomImages/clean2min.jpg"/>
+                        <img src="RoomImages/clean3.jpg"/>
                         <div className="item__overlay colorWhite">
-                            <button onClick={() => this.showInfo(2)}>Kitchen</button>
+                            <button onClick={() => this.showInfo(3)}>Closets</button>
                         </div>
                     </div>
                     <div className={"modal " + this.state.showModal}>

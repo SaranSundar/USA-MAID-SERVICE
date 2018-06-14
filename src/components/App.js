@@ -3,6 +3,7 @@ import {Redirect, Route, Switch} from "react-router-dom";
 import Home from "./Home/Home";
 import BulmaNavBar from "./BulmaNavBar/BulmaNavBar";
 import Rooms from "./Rooms/Rooms";
+import Prices from "./Prices/Prices";
 
 class App extends Component {
     render() {
@@ -10,6 +11,7 @@ class App extends Component {
             <Fragment>
                 <BulmaNavBar/>
                 <Switch>
+                    <Route path="/prices" exact component={Prices}/>
                     <Route path="/rooms" exact component={Rooms}/>
                     <Route path="/" exact component={Home}/>
                     <Redirect to="/"/>

@@ -1,5 +1,23 @@
 .nav_on_top {
     position: absolute;
-    opacity: 0.8;
+    /*opacity: 0.8;*/
     width: 100%;
+    z-index: 10;
+}
+
+.areas {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.logo-truck {
+    margin: 0;
+    outline: none;
+    border: none;
+    position: relative;
+    z-index: 15;
+}
+
+.logo-truck:hover {
+    color: #ffa3a0;
 }

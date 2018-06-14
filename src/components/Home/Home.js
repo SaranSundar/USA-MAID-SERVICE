@@ -33,7 +33,7 @@ class Home extends Component {
                      backgroundPosition: 'center center',
                      backgroundRepeat: 'no-repeat',
                  }}
-                 onLoad={console.log("IMAGE LOADED")}>
+                 >
                 <div className="is-overlay">
                         <span className="hero-text container has-text-centered">
                             <p className="title has-text-white is-size-2-desktop animated fadeInDownBig">
