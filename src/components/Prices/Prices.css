@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+.quote {
+    padding-top: 55px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    color: black;
+}
+
+.child-three {
+
+}
+
+.icons-three-img {
+    font-size: 40px;
+}
+
+.icons-three {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-gap: 50px;
+    justify-items: center;
+    align-items: center;
+}
+
+.quote-subtitle {
+    padding-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: black;
+}

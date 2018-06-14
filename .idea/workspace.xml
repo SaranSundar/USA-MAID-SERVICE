@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b71e0b97-4f1a-47b4-9629-bca121557ccf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/HomeImages/maps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RoomImages/clean6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Prices/Prices.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Prices/Prices.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean1min.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean2min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean3min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean4min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean5min.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/RoomImages/clean6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/RoomImages/clean6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Prices/Prices.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Prices/Prices.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Prices/Prices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Prices/Prices.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Rooms/Rooms.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rooms/Rooms.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Rooms/Rooms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Rooms/Rooms.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,37 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BulmaNavBar.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="137" column="9" lean-forward="true" selection-end-line="143" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prices.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Prices.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Prices.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="421">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -74,20 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BulmaNavBar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.css">
+      <file leaf-file-name="Prices.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Home/Home.js">
+      <file leaf-file-name="Rooms.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="-489">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -95,8 +58,8 @@
       <file leaf-file-name="Rooms.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="1195">
+              <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
@@ -119,9 +82,10 @@
       <find>right</find>
       <find>width</find>
       <find>a</find>
-      <find />
+      <find>a {</find>
       <find>logo</find>
       <find>downl</find>
+      <find>prices</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -139,14 +103,14 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/index.css" />
-        <option value="$PROJECT_DIR$/src/components/Rooms/Rooms.css" />
         <option value="$PROJECT_DIR$/src/components/Rooms/Rooms.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Home.js" />
         <option value="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.css" />
-        <option value="$PROJECT_DIR$/src/components/Prices/Prices.css" />
-        <option value="$PROJECT_DIR$/src/components/Prices/Prices.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.js" />
+        <option value="$PROJECT_DIR$/src/components/Rooms/Rooms.css" />
+        <option value="$PROJECT_DIR$/src/components/Prices/Prices.css" />
+        <option value="$PROJECT_DIR$/src/components/Prices/Prices.js" />
       </list>
     </option>
   </component>
@@ -186,6 +150,17 @@
             <path>
               <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
               <item name="maid_service" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maid_service" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="RoomImages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maid_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,13 +168,6 @@
               <item name="maid_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maid_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="BulmaNavBar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
@@ -207,6 +175,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Prices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maid_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maid_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Rooms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -225,8 +200,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/HomeImages" />
       <recent name="$PROJECT_DIR$/public/RoomImages" />
+      <recent name="$PROJECT_DIR$/public/HomeImages" />
       <recent name="$PROJECT_DIR$/src/components/BulmaNavBar" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/components/BulmaNavBar/HomeImages" />
@@ -263,18 +238,17 @@
       <workItem from="1528738630861" duration="16348000" />
       <workItem from="1528784853737" duration="1069000" />
       <workItem from="1528786054008" duration="42000" />
-      <workItem from="1528848139108" duration="9654000" />
+      <workItem from="1528848139108" duration="13132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27464000" />
+    <option name="totallyTimeSpent" value="30942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7079304" visible="true" weight="0.21286735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7079304" visible="true" weight="0.21286735" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -283,7 +257,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" sideWeight="0.29206964" side_tool="true" visible="true" weight="0.21286735" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26458037" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26458037" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -453,13 +427,6 @@
     <entry file="file://$PROJECT_DIR$/public/RoomImages/clean5.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBar/NavBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -471,16 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="129" selection-start-line="129" selection-end-line="133" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,19 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -520,10 +464,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/BulmaNavBar/BulmaNavBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="137" column="9" lean-forward="true" selection-end-line="143" />
+        <state relative-caret-position="1579">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Rooms/Rooms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1195">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Prices/Prices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
