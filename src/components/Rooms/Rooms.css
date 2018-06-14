@@ -2,11 +2,13 @@
     width: 100%;
     height: 50vh;
     position: relative;
+    filter: brightness(70%);
 }
 
-.center-child{
+.center-child {
+    height: 200px;
     position: absolute;
-    top: 25%;
+    top: 18%;
 }
 
 .item__overlay {

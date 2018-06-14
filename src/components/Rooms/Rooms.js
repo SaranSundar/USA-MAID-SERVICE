@@ -46,26 +46,25 @@ class Rooms extends Component {
     };
 
     render() {
+        let imgUrl = "RoomImages/bgclean.jpeg";
         return (
             <Fragment>
-                <div className='hero rooms-image is-primary'
-                    // style={{
-                    //     backgroundImage: 'url(' + imgUrl + ')',
-                    //     backgroundSize: 'cover',
-                    //     backgroundPosition: 'center center',
-                    //     backgroundRepeat: 'no-repeat',
-                    //     filter: "brightness(80%)",
-                    //     position: "relative"
-                    // }}
-                     onLoad={console.log("IMAGE LOADED")}>
-                    <div className="hero-body container has-text-centered is-overlay center-child">
-                        <h1 className="title is-size-1-desktop has-text-white">
-                            WHAT WE CLEAN
-                        </h1>
-                        <h2 className="subtitle is-size-2-desktop has-text-white">
-                            Fast. Efficient. Effective.
-                        </h2>
-                    </div>
+                <div className='hero rooms-image'
+                     style={{
+                         backgroundImage: 'url(' + imgUrl + ')',
+                         backgroundSize: 'cover',
+                         backgroundPosition: 'center center',
+                         backgroundRepeat: 'no-repeat'
+                     }}
+                >
+                </div>
+                <div className="has-text-centered is-overlay center-child">
+                    <h1 className="title is-size-1-desktop has-text-white">
+                        WHAT WE CLEAN
+                    </h1>
+                    <h2 className="subtitle is-size-2-desktop has-text-white">
+                        Fast. Efficient. Effective.
+                    </h2>
                 </div>
 
                 <div className="grid-rooms">
