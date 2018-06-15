@@ -7,16 +7,7 @@ class Prices extends Component {
 
     render() {
         return (
-            <div className='hero rooms-image'
-                // style={{
-                //     backgroundImage: 'url(' + imgUrl + ')',
-                //     backgroundSize: 'cover',
-                //     backgroundPosition: 'center center',
-                //     backgroundRepeat: 'no-repeat',
-                //     filter: "brightness(80%)",
-                //     position: "relative"
-                // }}
-                 onLoad={console.log("IMAGE LOADED")}>
+            <div className='hero rooms-image'>
                 <div className="hero-body container has-text-centered is-overlay">
                     <h1 className="quote">
                         "The most excellent service for the most affordable cost."

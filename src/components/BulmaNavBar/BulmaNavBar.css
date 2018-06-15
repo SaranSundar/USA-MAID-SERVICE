@@ -16,6 +16,7 @@
     border: none;
     position: relative;
     z-index: 15;
+    cursor: pointer;
 }
 
 .logo-truck:hover {
