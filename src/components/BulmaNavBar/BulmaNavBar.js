@@ -78,19 +78,15 @@ class BulmaNavBar extends Component {
                             <div className=" navbar-item">
                                 <div className=" field is-grouped">
                                     <p className=" control">
-                                        <a
+                                        <Link
                                             className=" bd-tw-button button"
-                                            data-social-network=" Twitter"
-                                            data-social-action=" tweet"
-                                            data-social-target=" http://localhost:4000"
-                                            target="_blank"
-                                            href="https://twitter.com/intent/tweet?text=Bulma: a modern CSS framework based on Flexbox&amp;hashtags=bulmaio&amp;url=http://localhost:4000&amp;via=jgthms"
+                                            to="/faq"
                                         >
                       <span className="icon">
                         <i className="fab fa-twitter"/>
                       </span>
                                             <span>FAQ</span>
-                                        </a>
+                                        </Link>
                                     </p>
                                     <p className="control">
                                         <a

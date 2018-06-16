@@ -4,6 +4,7 @@ import Home from "./Home/Home";
 import BulmaNavBar from "./BulmaNavBar/BulmaNavBar";
 import Rooms from "./Rooms/Rooms";
 import Prices from "./Prices/Prices";
+import faq from "./FAQ/faq";
 
 class App extends Component {
     render() {
@@ -11,6 +12,7 @@ class App extends Component {
             <Fragment>
                 <BulmaNavBar/>
                 <Switch>
+                    <Route path="/faq" exact component={faq}/>
                     <Route path="/prices" exact component={Prices}/>
                     <Route path="/rooms" exact component={Rooms}/>
                     <Route path="/" exact component={Home}/>
