@@ -18,8 +18,13 @@ class SliderContainer extends Component {
     }
 
     componentDidMount() {
-        setInterval(this.changeBackground, 3000);
+        this.timer = setInterval(this.changeBackground, 3000);
     }
+
+    componentWillUnmount() {
+        clearInterval(this.timer);
+    }
+
 
     changeBackground = () => {
         if (this.state.bgPos + 1 >= this.state.backgrounds.length) {

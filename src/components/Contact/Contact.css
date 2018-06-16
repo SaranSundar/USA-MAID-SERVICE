@@ -1,16 +1,99 @@
-.Contact{
-    color: #00e7eb;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,800');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700');
+
+.Contact {
+
 }
 
-.contact-grid{
+.areas-p{
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+.name-field {
+    padding: 12px 15px;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #3E2723;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    resize: none;
+}
+
+.name-field:focus {
+    border-color: #FF4081;
+    box-shadow: 0 1px 1px #ff3053 inset, 0 0 8px #ff3871;
+    outline: 0 none;
+}
+
+/*.name-field {*/
+/*width: 100%;*/
+/*height: 40px;*/
+/*font-size: 23px;*/
+/*padding: 5px;*/
+/*}*/
+
+.contact-spacer {
+    padding-top: 90px;
+    padding-bottom: 70px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.contact-title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.contact-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-rightside {
     display: grid;
-    width: 100%;
-    height: 50vh;
+    justify-content: left;
+    align-content: left;
+    grid-template-rows: repeat(3, 35px) 1fr;
+    grid-template-columns: 365px;
+    padding: 8px;
+    grid-gap: 10px;
+}
+
+.contact-button {
+    display: flex;
+    justify-content: right;
+}
+
+.contact-button button {
+    width: 90px;
+}
+
+.contact-grid {
+    display: grid;
+    padding: 15px;
+    background: #44ffc1;
+    grid-gap: 30px;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(1, 1fr);
-    justify-items: center;
+    justify-self: center;
+    align-self: center;
 }
 
-.Contact div{
-    color: #00e7eb;
+.Contact div {
+    color: #eb2c61;
 }

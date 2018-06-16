@@ -5,6 +5,7 @@
   "dependencies": {
     "animate.css": "^3.6.1",
     "bulma": "^0.7.1",
+    "emailjs-com": "^2.2.4",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-router-dom": "^4.3.1",
