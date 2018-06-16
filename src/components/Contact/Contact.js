@@ -7,7 +7,17 @@ class Contact extends Component {
 
     render() {
         return (
-            <div></div>
+            <div className="Contact">
+                <div className="spacer">CONTACT US</div>
+                <div className="contact-grid">
+                    <div>
+                        TEXT
+                    </div>
+                    <div>
+                        INPUT
+                    </div>
+                </div>
+            </div>
         );
     }
 }

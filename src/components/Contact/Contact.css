@@ -1,0 +1,16 @@
+.Contact{
+    color: #00e7eb;
+}
+
+.contact-grid{
+    display: grid;
+    width: 100%;
+    height: 50vh;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    justify-items: center;
+}
+
+.Contact div{
+    color: #00e7eb;
+}
