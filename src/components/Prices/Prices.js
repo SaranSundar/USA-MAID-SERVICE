@@ -27,12 +27,15 @@ class Prices extends Component {
                 <div className="icons-three">
                     <div className="child-three">
                         <i className="fas fa-home icons-three-img"/>
+                        <h1>How we determine the price</h1>
                     </div>
                     <div className="child-three">
                         <i className="fas fa-dollar-sign icons-three-img"/>
+                        <h1>General Price Estimates</h1>
                     </div>
                     <div className="child-three">
                         <i className="fas fa-mobile-alt icons-three-img"/>
+                        <h1>Contact Us At Any Time</h1>
                     </div>
                 </div>
             </div>
